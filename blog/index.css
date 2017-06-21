@@ -1,0 +1,26 @@
+nav ul {
+	background-color: grey;
+	border: 1px solid black;
+	width: 200px;
+	list-style: none;
+	padding: 0;
+	
+}
+
+nav ul li {
+	border-bottom: 1px solid black;
+	padding: 3px;
+}
+
+nav ul li:last-child {
+	border-bottom: none;
+}
+
+nav ul li a {
+	color: white;
+	text-decoration: none;
+}
+
+nav ul li a:hover {
+	text-decoration: underline;
+}
