@@ -1,0 +1,26 @@
+.main-container {
+	max-width: 1500px;
+	margin: auto;
+}
+.sidebar {
+	width: 20%;
+	float: right;
+	background-color: LightGoldenRodYellow;
+}
+.site-menu,
+.main-content {
+	float: left;
+}
+
+
+
+.site-menu {
+	width: 20%;
+	background-color: LightGoldenRodYellow;
+}
+
+
+.main-content {
+	width: 60%;
+	background-color: LightGoldenRodYellow;
+}
